@@ -1,4 +1,4 @@
-# flutter_game
+# flutter_flame
 
 A new Flutter project.
 
